@@ -16,10 +16,11 @@
         "livewire/livewire": "^3.4",
         "maatwebsite/excel": "^3.1",
         "phpoffice/phpspreadsheet": "^1.18",
-        "spatie/laravel-permission": "^6.3"
+        "spatie/laravel-permission": "^6.3",
+        "fakerphp/faker": "^1.9.1"
     },
     "require-dev": {
-        "fakerphp/faker": "^1.9.1",
+        
         "ibex/crud-generator": "^1.4",
         "laravel/pint": "^1.0",
         "laravel/sail": "^1.18",
